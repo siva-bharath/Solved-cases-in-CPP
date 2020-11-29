@@ -7,7 +7,7 @@ This compilation is highly useful to implement/understand some of the widely use
 2. Strings
 3. Math-Puzzles
 4. Search
-   a. Breadth First Search
-   b. Depth First Search
-   c. Uniform Cost Search
-   d. A* (Informed Search)
+ a. Breadth First Search
+ b. Depth First Search
+ c. Uniform Cost Search
+ d. A* (Informed Search)
