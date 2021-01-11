@@ -1,1 +1,1 @@
-# In this section , various of challenging tasks were solved 
+## In this section , various challenging tasks were solved using Arrays, Pointers, Dynamic Memory Allocation, Strings & IO File Handling !! 
