@@ -17,9 +17,7 @@ void reverse(int Arr[], int size) {
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-    // vector <int> vec {};
-
+  
     /* Declaring the size of array */
     int n;
     cin >> n;
