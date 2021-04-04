@@ -1,3 +1,5 @@
+// Challenge here is to find the number of non repeating characters in a given string !
+
 #define CharacterCount 128   //can change
   
 #include <iostream>
