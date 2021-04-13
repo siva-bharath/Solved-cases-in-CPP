@@ -1,3 +1,5 @@
+// Example to show the static binding type polymorphism (Compile Time)
+
 #include<iostream>
 #include<memory>
 
